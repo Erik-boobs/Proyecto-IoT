@@ -19,12 +19,11 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 ## Tabla de Software Utilizado
 | Id | Software | Versión | Tipo |
 |----|----------|---------|------|
-| 01 |Visual Studio Code|1.74|Entorno de Desarrollo Integrado|
-| 02 |Arduino IDE|2.0|Entorno de Desarrollo Integrado|
-| 03 |ESP32|1.1.0|Librería|
-| 04 |Phyton|3.10|Lenguaje de Programación|
-| 05 |Node-Red|3.0.2|Herramienta de desarrollo basada en flujo|
-| 06 |Mosquitto|2.0.15|Agente MQTT|
+| 01 |Arduino IDE|2.0|Entorno de Desarrollo Integrado|
+| 02 |ESP32|1.1.0|Librería|
+| 03 |Phyton|3.10|Lenguaje de Programación|
+| 04 |Node-Red|3.0.2|Herramienta de desarrollo basada en flujo|
+| 05 |Mosquitto|2.0.15|Agente MQTT|
 
 ## Tabla de Hardware Utilizado (Controladores)
 | Id | Controlador | Descripción | Imagen | Cantidad | Costo total |
